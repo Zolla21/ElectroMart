@@ -9,6 +9,13 @@ The project currently includes the initial frontend and interactive shopping int
 ElectroMart aims to connect customers with electronic products through a user-friendly online store. Customers will be able to browse products, manage a shopping cart, create accounts, place orders, and track their purchases.
 
 The long-term goal is to develop a complete e-commerce system with secure authentication, persistent data storage, order processing, and administrative product management.
+## 🏠 Homepage Preview
+
+<p align="center">
+  <img src="assets/images/homepage.png" alt="ElectroMart Homepage Screenshot" width="100%">
+</p>
+
+ElectroMart features a modern, responsive e-commerce interface for browsing electronic products, discovering categories, and managing a shopping cart.
 
 ## Current Features
 
